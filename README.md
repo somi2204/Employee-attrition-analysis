@@ -10,16 +10,29 @@ XYZ company which was established a few years back is facing around a 15% attrit
 
 ### Provided data
 *Employee
+
 *Age
+
 *Attrition
+
 *Business Travel
+
 *Department
+
 *Distance from Home
+
 *Education
+
 *Education Field
+
 *Employee Count
+
 *Gender
+
 *Job Level
+
 *Job Role
+
 *Marital Status
+
 *Monthly Income
