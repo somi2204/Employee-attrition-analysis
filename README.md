@@ -29,10 +29,10 @@ Employee Count
 
 Gender
 
-*Job Level
+Job Level
 
-*Job Role
+Job Role
 
-*Marital Status
+Marital Status
 
-*Monthly Income
+Monthly Income
